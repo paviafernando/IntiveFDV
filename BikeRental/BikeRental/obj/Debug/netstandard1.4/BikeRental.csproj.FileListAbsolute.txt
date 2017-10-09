@@ -1,0 +1,8 @@
+C:\Projects\IntiveFDV\BikeRental\BikeRental\bin\Debug\netstandard1.4\BikeRental.deps.json
+C:\Projects\IntiveFDV\BikeRental\BikeRental\bin\Debug\netstandard1.4\BikeRental.dll
+C:\Projects\IntiveFDV\BikeRental\BikeRental\bin\Debug\netstandard1.4\BikeRental.pdb
+C:\Projects\IntiveFDV\BikeRental\BikeRental\obj\Debug\netstandard1.4\BikeRental.csproj.CoreCompileInputs.cache
+C:\Projects\IntiveFDV\BikeRental\BikeRental\obj\Debug\netstandard1.4\BikeRental.AssemblyInfo.cs
+C:\Projects\IntiveFDV\BikeRental\BikeRental\obj\Debug\netstandard1.4\BikeRental.dll
+C:\Projects\IntiveFDV\BikeRental\BikeRental\obj\Debug\netstandard1.4\BikeRental.pdb
+C:\Projects\IntiveFDV\BikeRental\BikeRental\obj\Debug\netstandard1.4\BikeRental.csprojResolveAssemblyReference.cache
